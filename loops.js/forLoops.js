@@ -26,7 +26,7 @@ for (let index = 0; index < myArray.length; index++) {
 for (let index = 1; index <=20; index++) {
      if (index == 5) {
         // console.log(` detected number ${5}`)
-        break;  // break breakes the loop case on the given condition 
+        break;  // break breakes the loop   case on the given condition 
     }
     // console.log(index);
    
