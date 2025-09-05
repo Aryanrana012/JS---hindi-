@@ -7,7 +7,8 @@ This repo is a **comprehensive collection of notes, examples, and guidance** to 
 
 ## 📂 What’s Inside?  
 - ✅ **Basics of JavaScript** – Variables, Data Types, Operators, Loops, Functions.  
-- ✅ **Intermediate Concepts** – Objects, Arrays, DOM Manipulation, Events.  
+- ✅ **Intermediate Concepts** – Objects, Arrays, DOM Manipulation, Events.
+-   // files for next topics i will add as soon as promise  
 - ✅ **Advanced Topics** – ES6+, Promises, Async/Await, Modules.  
 - ✅ **Practical Examples** – Small projects, snippets, and logic building exercises.  
 - ✅ **Best Practices** – Writing clean, efficient, and optimized JavaScript code.  
