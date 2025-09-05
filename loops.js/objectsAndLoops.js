@@ -19,6 +19,6 @@ const myArray = ["aryan ", "rana ", "yuvi", "zora", "sawan"]
 for (const key in myArray) {
     console.log(myArray[key])   // it usually gives me the value 
     console.log(key)  /// gives me the keys like 0 1 2 3 4 
-    // same if i write this in the forof loop we will get the value not keys thats the difference 
+    // same if i write this in the forof loop we will get the value not keys thats the difference f
     
 }
